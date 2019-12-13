@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DycesTest</string>
+    <string name="naira">\u20A6</string>
+    <string name="amount">Amount</string>
+    <string name="fund_wallet">Fund wallet</string>
+    <string name="main_account">Main account</string>
+    <string name="wallet_balance">Wallet Balance</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+</resources>
