@@ -30,7 +30,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="20dp"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:gravity="center_vertical">
 
             <TextView
                 android:layout_width="match_parent"
@@ -82,7 +83,7 @@
                     android:inputType="number"
                     android:textSize="18sp"
                     android:textColor="@color/colorPrimaryDark"
-                    android:layout_margin="10dp"/>
+                    android:layout_margin="20dp"/>
 
             <Button
                 android:id="@+id/fund_wallet_btn"
